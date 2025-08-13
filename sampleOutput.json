@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chantz Martin",
+            "title": "Arch Manning hype train will lead to Texas star becoming college football's 'ultimate villain,' ESPN host says",
+            "description": "Rece Davis of ESPN's \"College GameDay\" weighed in the role Arch Manning could end up playing in his college career given all the attention he has drawn.",
+            "url": "https://www.foxnews.com/sports/arch-manning-hype-train-lead-texas-star-becoming-college-footballs-ultimate-villain-espn-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Arch-Manning.jpg",
+            "publishedAt": "2025-04-12T22:02:20Z",
+            "content": "Just a couple of years ago, Arch Manning was one of the most highly sought high school recruits in the nation. He ultimately decided to take his potential and high-profile last name to Austin.\r\nWhen … [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Ohio State receives rings for winning College Football Playoff championship",
+            "description": "The Buckeyes received their national championship rings — three, to be exact — during Saturday's spring game at Ohio Stadium.",
+            "url": "https://www.foxsports.com/stories/college-football/ohio-state-receives-rings-winning-college-football-playoff-championship",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/04/1408/814/day1.jpg?ve=1&tl=1",
+            "publishedAt": "2025-04-12T18:41:50Z",
+            "content": "Ohio State's national championship football team will have some extra jewelry to show off on its visit to the White House on Monday.\r\nThe Buckeyes received three rings between the first and second qu… [+1417 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "NFL.com | Official Site of the National Football League",
+            "description": "The official source for NFL news, video highlights, fantasy football, game-day coverage, schedules, stats, scores and more.",
+            "url": "https://www.nfl.com/#",
+            "urlToImage": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg",
+            "publishedAt": "2025-04-12T15:52:30.6317039Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mark Giannotto",
+            "title": "Nico Iamaleava's Tennessee football career is over after NIL dispute, holdout",
+            "description": "Tennessee football needs a new starting QB after coach Josh Heupel informed the team Saturday the program is moving forward without Nico Iamaleava.",
+            "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2025/04/12/nico-iamaleava-out-tennessee-football-nil-dispute/83059006007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/05/USAT/75090875007-20240109-t-215101-z-1141241769-mt-1-usatoday-22254881-rtrmadp-3-ncaafootballcitrusbowliowaattennessee.JPG?crop=2549,1434,x339,y313&width=2549&height=1434&format=pjpg&auto=webp",
+            "publishedAt": "2025-04-12T14:59:39+00:00",
+            "content": "Tennessee football is looking for a new starting quarterback ahead of the 2025 season, and Nico Iamaleava will be looking for a new school.\r\nIamaleava's college career with the Volunteers is over aft… [+1955 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Juliette Prigent",
+            "title": "Vidéo. Kings League : la nouvelle compétition de foot aux règles originales et au succès fou",
+            "description": "Vidéo - « Le Monde » vous emmène découvrir le terrain de la Kings League. Cette nouvelle compétition de football, inédite en France, veut mélanger sport et divertissement pour captiver une nouvelle génération de spectateurs.",
+            "url": "https://www.lemonde.fr/sport/video/2025/04/06/kings-league-quand-le-football-devient-un-show_6592110_3242.html",
+            "urlToImage": "https://img.lemde.fr/2025/04/06/0/150/1620/1080/1440/960/60/0/5ceef20_sirius-fs-upload-1-2yrz52zodz25-1743958201238-cover-sirius.jpg",
+            "publishedAt": "2025-04-06T17:10:52Z",
+            "content": "Dimanche 6 avril commence un tout nouveau championnat de football en France : la Kings League. Créée par lex-footballeur Gerard Piqué, et portée par le streameur AmineMaTue en France, la Kings League… [+947 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Liam Hoofe",
+            "title": "Best betting sites UK | Top betting site offers for October 2024...",
+            "description": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events…",
+            "url": "https://talksport.com/betting/1760032/best-betting-sites-uk/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/08/talksport-best-betting-sites-uk-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2024-10-04T08:45:00Z",
+            "content": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events, … [+17381 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
